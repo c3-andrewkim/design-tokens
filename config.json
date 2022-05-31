@@ -1,0 +1,14 @@
+{
+  "source": ["tokens/**/*.json"],
+  "platforms": {
+    "scss": {
+      "transformGroup": "scss",
+      "buildPath": "/Users/andrewkim/Documents/C3/source-code/c3server-v7/repo/c3ui/repo/c3ui/cssLibrary/src/stylesheets/abstracts/",
+      "prefix": "c3-sdl",
+      "files": [{
+        "destination": "_tokens.scss",
+        "format": "scss/variables"
+      }]
+    }
+  }
+}

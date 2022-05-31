@@ -1,0 +1,75 @@
+{
+    "border": {
+        "radius": {
+            "none" : {
+                "value": "0rem"
+              },
+              "small": {
+                "value": "0.125rem"
+              },
+              "medium": {
+                "value": "0.25rem"
+              },
+              "large": {
+                "value": "0.5rem"
+              },
+              "xlarge": {
+                "value": "1rem"
+              },
+              "pill": {
+                "value": "60rem"
+              },
+              "circle": {
+                "value": "50%"
+              }
+        },
+        "width": {
+            "none" : {
+                "value": "0"
+              },
+              "small": {
+                "value": "0.0625rem"
+              },
+              "medium": {
+                "value": "0.125rem"
+              },
+              "large": {
+                "value": "0.1875rem"
+              },
+              "xlarge": {
+                "value": ".25rem"
+              }
+        },
+        "style": {
+            "none" : {
+                "value": "none"
+              },
+              "solid": {
+                "value": "solid"
+              },
+              "dashed": {
+                "value": "dashed"
+              },
+              "dotted": {
+                "value": "dotted"
+              }
+        },
+        "position": {
+            "allsides" : {
+                "value": "top, right, bottom, left"
+              },
+              "top": {
+                "value": "top, 0, 0, 0"
+              },
+              "right": {
+                "value": "0, right, 0, 0"
+              },
+              "bottom": {
+                "value": "0, 0, bottom, 0"
+              },
+              "left": {
+                "value": "0, 0, 0, left"
+              }
+        }
+    }
+  }

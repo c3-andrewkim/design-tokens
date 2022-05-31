@@ -1,0 +1,156 @@
+{
+    "font": {
+      "family": {
+        "default" : {
+            "value": "Inter, Roboto, Helvetica"
+        },
+        "heading": {
+            "value": "Inter, Roboto, Helvetica"
+        },
+        "monospace": {
+            "value": "Monaco, Consolas, Menlo, Courier, Monospace"
+        }
+      },
+      "weight": {
+        "regular": {
+            "value": "400"
+        },
+        "medium": {
+            "value": "500"
+        },
+        "semibold": {
+            "value": "600"
+        },
+        "bold": {
+            "value": "700"
+        }
+      },
+      "lineHeight": {
+        "none": {
+            "value": "1"
+        },
+        "tight": {
+            "value": "1.25"
+        },
+        "comfortable": {
+            "value": "1.4"
+        },
+        "loose": {
+            "value": "1.5"
+        }
+      },
+      "letterSpacing": {
+        "none": {
+            "value": "0%"
+        },
+        "loose": {
+            "value": "4%"
+        },
+        "comfortable": {
+            "value": "2%"
+        },
+        "tight": {
+            "value": "-1%"
+        }
+      },
+      "textDecoration": {
+        "none": {
+            "value": ""
+        },
+        "italic": {
+            "value": "italic"
+        },
+        "underline": {
+            "value": "underline"
+        },
+        "overline": {
+            "value": "overline"
+        },
+        "lineThrough": {
+            "value": "line-through"
+        }
+      },
+      "size": {
+        "1" : {
+          "value": "10",
+          "comment": "the smallest size of the font"
+        },
+        "2": {
+          "value": "11",
+          "comment": "the smaller size of the font"
+        },
+        "3" : {
+          "value": "12",
+          "comment": "the small size of the font"
+        },
+        "4" : {
+          "value": "14",
+          "comment": "the base size of the font"
+        },
+        "5" : {
+          "value": "16",
+          "comment": "the medium size of the font"
+        },
+        "6" : {
+          "value": "18",
+          "comment": "the mediumer size of the font"
+        },
+        "7" : {
+          "value": "20",
+          "comment": "the mediumest size of the font"
+        },
+        "8" : {
+          "value": "22",
+          "comment": "the large size of the font"
+        },
+        "9" : {
+          "value": "25",
+          "comment": "the larger size of the font"
+        },
+        "10" : {
+          "value": "28",
+          "comment": "the largest size of the font"
+        },
+        "11" : {
+          "value": "32",
+          "comment": "the xlarge size of the font"
+        },
+        "12" : {
+          "value": "36",
+          "comment": "the xlarger size of the font"
+        },
+        "13" : {
+          "value": "40",
+          "comment": "the xlargest size of the font"
+        },
+        "14" : {
+          "value": "45",
+          "comment": "the xxlarge size of the font"
+        },
+        "15" : {
+          "value": "51",
+          "comment": "the xxlarger size of the font"
+        },
+        "16" : {
+          "value": "58",
+          "comment": "the xxlargest size of the font"
+        },
+        "17" : {
+          "value": "65",
+          "comment": "the xxxlarge size of the font"
+        },
+        "18" : {
+          "value": "73",
+          "comment": "the largest size of the font"
+        },
+        "baseTextSize"  : {
+          "value": "14px",
+          "comment": "the base size of the font"
+        },
+        "majorSecondScale"  : {
+          "value": "1.125",
+          "comment": "the ratio at which font sizes scale"
+        }
+      }
+    }
+  }
