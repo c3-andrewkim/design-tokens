@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 01 Jun 2022 20:44:37 GMT
+// Generated on Thu, 02 Jun 2022 23:38:26 GMT
 
 
 import UIKit
@@ -18,7 +18,7 @@ public enum StyleDictionaryEnum {
     public static let borderRadiusCircle = 50%
     public static let borderRadiusLarge = 0.5rem
     public static let borderRadiusMedium = 0.25rem
-    public static let borderRadiusNone = 0rem
+    public static let borderRadiusNone = 0
     public static let borderRadiusPill = 60rem
     public static let borderRadiusSmall = 0.125rem
     public static let borderRadiusXlarge = 1rem

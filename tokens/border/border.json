@@ -2,7 +2,7 @@
     "border": {
         "radius": {
             "none" : {
-                "value": "0rem"
+                "value": "0"
               },
               "small": {
                 "value": "0.125rem"
