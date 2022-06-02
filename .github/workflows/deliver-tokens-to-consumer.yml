@@ -18,7 +18,7 @@ jobs:
         # Set the secret in the "src" repository
         personal_token: ${{ secrets.API_TOKEN_GITHUB }}
         # This is the branch that has the code for this article
-        src_branch: consuming-design-tokens-from-style-dictionary-with-github-actions
+        src_branch: design-tokens
         src_path: build/scss/_variables.scss
         # This is the Destination branch
         dst_owner: c3-andrewkim
