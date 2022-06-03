@@ -1,0 +1,14 @@
+{
+    "name":"converted",
+    "version":"1.0.0",
+    "description":"Design Tokens repo for C3.AI",
+    "author":"Andrew Kim",
+    "dependencies":{
+        "style-dictionary":"3.7.0",
+        "token-transformer":"0.0.23"
+    },
+    "scripts": {
+        "build": "style-dictionary build"
+      }
+    }
+  
